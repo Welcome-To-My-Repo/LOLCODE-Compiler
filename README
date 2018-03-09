@@ -1,0 +1,11 @@
+This is a compiler for the LOLCODE esoteric language.
+
+It works in both windows and linux
+
+Building the compiler requires the Make utility and the GNU Toolchain.
+Navigate to the directory containing the source files.
+For Windows, enter "make Win"
+For Linux, enter "make Linux"
+
+Currently, neither building in Linux or Windows is supported. In fact,
+compiler doesn't even run as it's not finished. Stay tuned!

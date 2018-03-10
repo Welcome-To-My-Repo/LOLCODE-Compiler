@@ -9,3 +9,5 @@ For Linux, enter "make Linux"
 
 Currently, neither building in Linux or Windows is supported. In fact,
 compiler doesn't even run as it's not finished. Stay tuned!
+
+This program is (C)opyright Daniel Smith 2018 and is distributed under the Simple License for Software
